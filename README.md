@@ -1,2 +1,2 @@
 # Machine-Learning-Assignments
-UT Austin
+UT Austin MSAI
